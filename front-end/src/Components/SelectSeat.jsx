@@ -1,6 +1,6 @@
 import React from 'react'
 import { seats } from '../data'
-import RadioComponent from './RadioComponent'
+import '../Css/SelectSeat.css'
 import SeatsInput from './SeatsInput'
 
 const SelectSeat = () => {
