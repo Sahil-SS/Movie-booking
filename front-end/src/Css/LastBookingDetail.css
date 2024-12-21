@@ -4,7 +4,7 @@
   border: 5px solid black;
 }
 
-.ast_booking_details_container_main {
+.last_booking_details_container_main {
   display: flex;
   flex-direction: column;
   color: black;
