@@ -24,7 +24,7 @@
 
 .inactive:hover{
     background-color: rgba(219, 9, 9, 0.937);
-    opacity: 0.95;
+    opacity: 0.95; 
 }
 
 .text{
